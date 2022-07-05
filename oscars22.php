@@ -286,6 +286,7 @@
       {
          "category":{
             "name":"Adapted Screenplay",
+            "needsinfo":0,
             "nominees":[
                {
                   "movie":"CODA",
