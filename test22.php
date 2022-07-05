@@ -51,7 +51,7 @@
             "id": "P9"
           },
           {
-            "movie": "West Side Story"
+            "movie": "West Side Story",
             "imdb": 3581652,
             "id": "P10"
 					}
